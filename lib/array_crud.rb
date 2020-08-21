@@ -1,8 +1,9 @@
 def create_an_empty_array
-  new_array1 = []
+  first_array = []
 end
 
 def create_an_array
+  second
 
 end
 
